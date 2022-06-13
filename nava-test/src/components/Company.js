@@ -13,7 +13,6 @@ export default function Company({ data, index }) {
     return num;
   }
 
-
   return (
     <>
       <div className="container" key={index}>
